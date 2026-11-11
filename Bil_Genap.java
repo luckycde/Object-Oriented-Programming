@@ -1,6 +1,6 @@
 // (2520097)
 
-public class BilGenap {
+public class Bil_Genap {
 
     public static void main(String[] args) {
 

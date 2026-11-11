@@ -1,5 +1,5 @@
 
-public class hiung_nilai {
+public class Hitung_Nilai {
 
     public static void main(String[] args) {
         int Nilai = 50;
