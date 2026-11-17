@@ -5,13 +5,13 @@ public class Hitung_Nilai {
         int Nilai = 50;
         char Grade;
 
-        if (Nilai >= 85 && Nilai <= 100) {
+        if (Nilai >= 90 && Nilai <= 100) {
             Grade = 'A';
-        } else if (Nilai >= 75 && Nilai < 85) {
+        } else if (Nilai >= 81 && Nilai < 90) {
             Grade = 'B';
-        } else if (Nilai >= 60 && Nilai < 75) {
+        } else if (Nilai >= 71 && Nilai < 81) {
             Grade = 'C';
-        } else if (Nilai >= 35 && Nilai < 60) {
+        } else if (Nilai >= 61 && Nilai < 71) {
             Grade = 'D';
         } else {
             Grade = 'E';
